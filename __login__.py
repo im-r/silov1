@@ -38,7 +38,7 @@ def login():
          succses()
          sleep(1)
          os.system('clear')
-         os.system('bash .__silo__v__1__simple__login__by__im__r')
+         os.system('bash $HOME/silov1/.__silo__v__1__simple__login__by__im__r')
          print('')
         else:
          corrupt()
