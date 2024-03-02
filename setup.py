@@ -70,7 +70,7 @@ def setup():
     for i in range(10):
         sleep(0.25)
     loader.stop()
-    os.system('rm $HOME/.bashrc && mv .bashrc $HOME')
+    os.system('mv .bashrc $HOME')
     main()
   except KeyboardInterrupt:
        corrupt()
