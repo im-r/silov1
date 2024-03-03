@@ -27,5 +27,5 @@ pkg install python && git clone https://github.com/im-r/silov1 && cd silov1 && p
 <img src=".screenshot/silo_login_form.png">
 
 ## Find me on
-[![Github](https://img.shields.io/badge/Github-IM-R-green?style=for-the-badge&logo=github)](https://github.com/im-r)
+[![Github](https://img.shields.io/badge/Github-IM--R-green?style=for-the-badge&logo=github)](https://github.com/im-r)
 [![Instagram](https://img.shields.io/badge/IG-%40rfadllhwbsn-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rfadllhwbsn)
